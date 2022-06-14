@@ -11,7 +11,7 @@ function App() {
         <h1>Jackson Dashboard</h1>
       </div>
       <div className="App-body">
-        <p>Something better be differen!</p>
+        <p>Something better be different!</p>
 
         <label htmlFor="email">Email:</label>
         <input name="email" id="email"></input>
